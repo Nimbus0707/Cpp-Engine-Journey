@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\gabry\\source\\repos\\Cpp-Engine-Journey\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B9BC2283-D921-4ED1-8BDB-F2CFADC2958B}|Cpp-Engine-Journey\\Cpp-Engine-Journey.vcxproj|C:\\Users\\gabry\\source\\repos\\Cpp-Engine-Journey\\Cpp-Engine-Journey\\Cpp-Engine-Journey.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B9BC2283-D921-4ED1-8BDB-F2CFADC2958B}|Cpp-Engine-Journey\\Cpp-Engine-Journey.vcxproj|solutionrelative:Cpp-Engine-Journey\\Cpp-Engine-Journey.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Cpp-Engine-Journey.cpp",
+              "DocumentMoniker": "C:\\Users\\gabry\\source\\repos\\Cpp-Engine-Journey\\Cpp-Engine-Journey\\Cpp-Engine-Journey.cpp",
+              "RelativeDocumentMoniker": "Cpp-Engine-Journey\\Cpp-Engine-Journey.cpp",
+              "ToolTip": "C:\\Users\\gabry\\source\\repos\\Cpp-Engine-Journey\\Cpp-Engine-Journey\\Cpp-Engine-Journey.cpp",
+              "RelativeToolTip": "Cpp-Engine-Journey\\Cpp-Engine-Journey.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-02-23T15:54:20.338Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
